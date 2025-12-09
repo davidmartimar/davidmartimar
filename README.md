@@ -58,7 +58,7 @@ I focus on tools that deliver speed and scalability.
 I believe in "Show, don't tell". Here are systems I've built to solve specific problems:
 
 | Project | Description | Tech Stack |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | [**ネ NEXUS: Enterprise RAG Knowledge Engine**](https://github.com/davidmartimar/nexus-rag-api) | Ingests internal documents (PDF, DOCX, etc.) and audio (MP3, WAV, etc.) to instantly answer employee or client queries with verified context. | `Docker` `LangChain` `OpenAI` `ChromaDB` `Python` |
 | [**Multimodal AI Analyzer**](https://github.com/davidmartimar/ai-multimodal-analyzer) | An AI Agent capable of processing video and audio files to extract insights, summaries, and sentiment analysis for market research, newsletters, social media posts... | `Python` `OpenAI Vision` `Whisper` |
 | [**Automated Sales Intelligence**](https://github.com/davidmartimar/retail-sales-analytics-dashboard) | A full-stack dashboard for retail that automates data cleaning and visualizes KPI trends for fresh product sales. | `Power BI` `SQL` `Python` |
